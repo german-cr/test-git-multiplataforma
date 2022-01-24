@@ -8,4 +8,6 @@ echo 'esta es la linea para la proxima version preliminar 0.2';
 
 echo 'esta linea esta generada desde mac mini, el 2021';
 
+echo 'esta linea es de 2022 desde mb air'
+
 ?>
